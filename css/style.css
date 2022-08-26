@@ -68,8 +68,14 @@ body {
 }
 
 .donation {
+    margin: 15px;
+    margin-top: 160px;
+    padding: 30px;
     text-align: center;
     margin-bottom: 70px;
+    border: 2px dashed rgb(0, 0, 37);
+    border-radius: 20px;
+    background-color: rgb(245, 245, 255);
 }
 
 .deco-area {
@@ -107,6 +113,53 @@ body {
     color: rgb(0, 0, 37);
     background-color: rgb(230, 230, 255);
     border: 1px solid lightgray;
+    border-radius: 8px;
+}
+
+.plans {
+    display: flex;
+}
+
+.plan {
+    margin: 20px;
+    padding: 30px;
+    text-align: justify;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.plan1 {
+    background-color: rgb(226, 248, 255);
+}
+
+.plan2 {
+    background-color: lightgoldenrodyellow;
+}
+
+.plan3 {
+    background-color: rgb(255, 240, 240);
+}
+
+.update-part {
+    margin: 30px;
+    margin-top: 150px;
+    text-align: center;
+    border: 1px dotted lightgray;
+    background-color: rgb(243, 243, 243);
+}
+
+.input-area {
+    padding: 100px;
+    margin: 50px;
+    background-color: rgb(220, 220, 253);
+
+}
+
+#mailbox {
+    color: white;
+    padding: 15px;
+    color: rgb(0, 0, 37);
+    background-color: rgb(230, 230, 255);
+    border: 1px solid rgb(124, 124, 124);
     border-radius: 8px;
 }
 
