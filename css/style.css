@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+.top-banner {
+    background-image: url(../images/donation-top-final.png);
+    background-repeat: no-repeat;
+    height: 620px;
+}
+
+.Abril-font {
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 300;
+}
+
+.banner-font {
+    color: whitesmoke;
+    text-align: center;
+    padding: 180px 0;
+    font-size: 30px;
+}
+
+#banner-p {
+    font-size: 18px;
+    color: antiquewhite;
+}
+
+.org-colour {
+    color: #F76B0E;
+}
+
+.donate-btn {
+    text-decoration: none;
+    font-size: 20px;
+    color: lightgoldenrodyellow;
+    padding: 8px 12px;
+    border-radius: 10px;
+    background-color: #F76B0E;
+}
+
+.donate-btn:hover {
+    background-color: #fc7f2d;
+}
